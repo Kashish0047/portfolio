@@ -1,0 +1,41 @@
+.myprojects{ border: 2px solid black;
+height: 100%;
+background-color: #ff8fab;}
+
+h1{ margin-left: 500px;
+font-size: 50px;
+font-weight: 700;}
+
+.project{ background-color: #f3aa43;
+height: 70px;}
+
+h2{ font-size: 30px;
+margin-left: 20px;}
+
+h5{ font-weight: 700;}
+
+p{ font-weight: 600;}
+
+.card{margin-top: 60px;
+margin-left: 50px;
+border: 2px solid black;
+border-radius: 20px;
+display: inline-block;}
+
+.card-2{margin-left: 180px;}
+
+.card-img-top{ border-radius: 20px;
+}
+
+button{ width: 240px;
+    height: 50px;
+    background-color: #f3aa43;
+    color: black;
+    margin-top: 90px;
+    margin-left: 490px;
+    font-size: 20px;}
+    
+    a{ color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;}

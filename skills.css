@@ -1,0 +1,38 @@
+.card{ display: inline-block;
+margin-top: 70px;
+margin-left: 70px;
+border: 2px solid black;}
+
+.cssimg{ height: 200px;}
+
+h1{ margin-left:  450px;
+    margin-top: 30px;
+font-weight: 700;
+}
+
+.skills{ border: 2px solid black;
+height: 100%;
+background-color:#ff8fab;}     
+
+.card2{ border: 2px solid black;}
+
+.card:hover{ box-shadow: 20px 20px 30px black;
+transition: ease-in 0.5s linear;}
+
+button{ width: 240px;
+height: 50px;
+background-color: #f3aa43;
+color: black;
+margin-top: 90px;
+margin-left: 490px;
+font-size: 20px;}
+
+a{ color: black;
+text-decoration: none;
+font-size: 20px;
+font-weight: 700;}
+    
+hr{ border: 1.5px solid black;
+margin-top: 30px;}
+
+.skill{ background-color: #f3aa43}
